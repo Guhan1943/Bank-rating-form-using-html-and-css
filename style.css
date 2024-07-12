@@ -1,0 +1,30 @@
+.container{
+    background-image: linear-gradient(to right, rgb(80, 149, 195),#fff);
+    padding-top: 30px;
+}
+.name{
+    text-align: end;
+    padding-right: 90px;
+}
+input{
+    width: 100%;
+    background-color: #ffffff00;
+}
+.row{
+    padding: 20px;
+}
+.last{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+.row1{
+    background-color: darkgreen;
+    color: #fff;
+}
+#dot{
+    padding: 0px;
+    text-align: center;
+    color: darkgreen; 
+    font-size: 100px;
+}
